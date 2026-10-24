@@ -1,3 +1,3 @@
-# SEÑALES DE TRASNMISIÓN 
+# SEÑALES DE TRANSMISIÓN 
 #Audio cuasi-ultrasónico
 
