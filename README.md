@@ -7,4 +7,4 @@ En este proyecto generaremos un audio mediante un programa de Python. Para inter
 ```
 ##Librerías
 ```
-Utilizaremos las librerías de Python "numpy" y "sounddevice".
+Se requiere utilizar las librerías de Python "numpy" y "sounddevice".
