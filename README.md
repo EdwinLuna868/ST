@@ -2,4 +2,4 @@
 ```
 Audio cuasi-ultrasónico
 Descripción:
-En este proyecto generaremos un audio mediante un programa de Python, para interceptar este sonido utilizaremos la app de phyphox
+En este proyecto generaremos un audio mediante un programa de Python. Para interceptar este sonido utilizaremos la app de phyphox
